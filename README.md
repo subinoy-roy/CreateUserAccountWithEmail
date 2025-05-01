@@ -5,7 +5,7 @@ This project is a Java-based AWS Lambda function that handles the creation of us
 
 ## Features
 - Input validation for username and email.
-- Redis-based Bloom filter for efficient duplicate checks.
+- Redis-based **_Bloom filter_** for efficient duplicate checks.
 - MySQL integration for persistent user storage.
 - Unit tests using JUnit and Mockito.
 
